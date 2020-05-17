@@ -1,0 +1,17 @@
+{
+    "name": "littlegreenman/draftable",
+    "description": "Draftable - A library to quickly support users drafting content for your Laravel models.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elliot Ali",
+            "email": "development@littlegreenman.software"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
